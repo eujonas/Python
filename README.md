@@ -2,7 +2,7 @@
     <img alt="Linguagem de Programação I"src="https://github.com/eujonas/Python/blob/main/giphy.gif" widt="350px" height="320px"/>
 </h1>
 
-Aplicação de exercícios e desafios referente à disciplina de Linguagem de Programação I - UECE, Polo Mombaça.
+<h2>Aplicação de exercícios e desafios referente à disciplina de Linguagem de Programação I - UECE, Polo Mombaça.</h3>
 
 
  ***
