@@ -1,2 +1,11 @@
-# Python
- Aplicação de exercícios e desafios referentes à disciplina de Linguagem de Programação I, do Semestre Complementar de Férias. 
+<p align = "center">
+<img src="https://github.com/eujonas/Python/giphhy.gif" widt="350px" height="320px">
+</p>
+
+
+
+ ***
+ ## :📝: Aula 02
+
+ * [Lista de Exercícios]()
+
