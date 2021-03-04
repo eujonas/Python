@@ -1,0 +1,1 @@
+"""9 - Crie uma função que receba duas strings e retorne True se o número de elementos de uma for igual ao da outra, e retorne False caso contrário.Pesquise pelo método len() na documentação do Python."""
