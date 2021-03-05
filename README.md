@@ -9,4 +9,9 @@
 
  * [Lista de Exercícios](https://github.com/eujonas/Python/tree/main/Aula%2002)
 
+ ## 📝 Aula 03
+ 
+ * [Lista de Exercícios](https://github.com/eujonas/Python/tree/main/Aula%2003)
+
+
 <p align="center">Desenvolvido por Jonas Lima</p>
