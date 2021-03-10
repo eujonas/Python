@@ -1,0 +1,1 @@
+"""Escreva três funções sendo que: A Primeira deve receber uma quantidade de dias e retornar o equivalente em horas. A segunda deve receber a quantidade de horas retornada pela primeira função e retornar o equivalente em minutos, a terceira por sua vez recebe a quantidade de minutos da segunda e retorna o equivalente em segundos. Utilize as funções como parâmetros"""
