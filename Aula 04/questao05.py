@@ -1,0 +1,1 @@
+"""5- Escreva uma função para validar uma string. Ela deve receber como argumento, uma string, o número minimo e máximo de caracteres e retornar VERDADEIRO se o número de caracteres da string estiver dentro do min e max passado, e FALSO caso contrário."""
